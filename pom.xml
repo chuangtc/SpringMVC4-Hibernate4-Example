@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<springframework.version>4.0.6.RELEASE</springframework.version>
+		<springframework.version>4.3.19.RELEASE</springframework.version>
 		<hibernate.version>4.3.7.Final</hibernate.version>
 		<mysql.connector.version>5.1.34</mysql.connector.version>
 		<joda-time.version>2.3</joda-time.version>
